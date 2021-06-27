@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "185545571937",
+    "project_id": "furniture-app-2ed06",
+    "storage_bucket": "furniture-app-2ed06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185545571937:android:5e5252d7832999cde4b420",
+        "android_client_info": {
+          "package_name": "com.example.ambildata_api"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185545571937-g95cssr9domm27iipvp0dnonodgpphpu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-Rvkx-ZZ1UOvjGbSVNki_tCl3Ag7XL1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185545571937-g95cssr9domm27iipvp0dnonodgpphpu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
